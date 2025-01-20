@@ -1,4 +1,7 @@
 gotta link it to github
 
 Adding this a new task xyz from feature-update. 
+
+ADDING THIS TEXT FROM FEATURE-B
+ADDING THIS TEXT FROM FEATURE-B
 ADDING THIS TEXT FROM FEATURE-B
